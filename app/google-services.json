@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190623816145",
+    "project_id": "sptf-fcce3",
+    "storage_bucket": "sptf-fcce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190623816145:android:397ce6c5245df4ecd6e8f0",
+        "android_client_info": {
+          "package_name": "com.ck4u.spotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190623816145-6n6j9jgsapkhs7jb8slnm42gdjl8ri83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmgYMkiclM-TpE51mkaWM98Tf30QVV4Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190623816145-6n6j9jgsapkhs7jb8slnm42gdjl8ri83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
