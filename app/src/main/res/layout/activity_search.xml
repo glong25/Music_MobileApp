@@ -14,7 +14,7 @@
         android:layout_height="?attr/actionBarSize">
     </androidx.appcompat.widget.Toolbar>
 
-    <EditText
+    <SearchView
         android:drawableRight="@drawable/search_ic"
         android:background="@drawable/back_btn"
         android:id="@+id/edtsearch"
@@ -26,7 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="48dp"/>
 
-    <androidx.recyclerview.widget.RecyclerView
+    <ListView
         android:id="@+id/recycleview_search"
         android:layout_marginTop="5dp"
         android:layout_marginStart="5dp"
